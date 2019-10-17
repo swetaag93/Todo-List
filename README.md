@@ -3,4 +3,4 @@ This project is a very basic application in which you can add your various todo 
 
 # In this project we are using Python and Sql
 
-# This project is mainly based on Django framework
+# This project is based on Django framework
